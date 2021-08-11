@@ -1,1 +1,1 @@
-# jhinnen1.github.io
+This four page Web application is just to show a little of what I can do with some JavaScript, HTML, and CSS. Even has some LESS worked in. FYI, when I have some more time I'll work on the alignment of the contact form, and stay tuned for even better things to come.
