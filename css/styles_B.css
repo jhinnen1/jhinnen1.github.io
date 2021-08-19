@@ -4,10 +4,11 @@
 
 .contact {
     margin: 0 auto;
-    width: 400px;
+    width: 250px;
     padding: 1em;
     border: 1px solid #CCC;
     border-radius: 1em;
+    text-align: right;
 }
 
 footer {
